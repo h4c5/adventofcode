@@ -1,0 +1,2 @@
+ipykernel
+advent-of-code-data[nb]
